@@ -1,8 +1,8 @@
 package main
 
 import (
-	demo "github.com/MatrixAI/Golang-Demo"
 	"fmt"
+	demo "github.com/MatrixAI/Golang-Demo"
 )
 
 func main() {
